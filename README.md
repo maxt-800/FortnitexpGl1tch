@@ -1,7 +1,7 @@
 # FortnitexpGl1tch
 Fortnite XP glitch: Activate program, enter lobby, initiate sequence. Program exploits game mechanics, generating excess XP without gameplay.
 
-![image](https://github.com/Fortn1tehcker/Fortnitexpglitch/assets/161361188/a8bf0478-a6f0-4ad6-aa3d-43fb9c784731)
+![image](https://github.com/maxt-800/FortnitexpGl1tch/assets/131497208/8089c2cf-081c-4106-9ab1-62caef72c414)
 
 Introducing the Fortnite XP Overflow Glitch: This program exploits a vulnerability in Fortnite's XP reward system, enabling players to accumulate excessive XP without engaging in actual gameplay. Upon activation, the glitch manipulates the game's code to trigger repeated XP rewards, rapidly boosting the player's XP level. The key features include seamless integration with Fortnite's interface, discreet operation to evade detection by anti-cheat systems, and customizable settings for personalized XP accumulation. 
 
